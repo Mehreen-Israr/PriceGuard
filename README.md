@@ -1,9 +1,19 @@
 # PriceGuard
-A User Experience project that followed all the steps—from user research and interviews to wireframing, prototyping, and testing
+A User Experience project that followed a complete design process—from user research and interviews to wireframing, prototyping, and usability testing.
 
-With grocery prices rising by 8.5% annually (source: market data), many individuals struggle to maintain budgets. Rising grocery prices due to inflation are making it difficult for people to stay within budget   while maintaining a nutritious diet. Many people struggle to track price trends, compare costs across stores, and make informed purchasing decisions. Without reliable and easy to use tools, people often overspend, face financial strain, or compromise on essential groceries.
-PriceGuard aims to solve this issue by using technology to provide real-time grocery price tracking, budget-friendly recommendations, and smart spending insights. It promotes responsible consumption (UN SDG 12) and helps mitigate the impact of inflation which makes it contribute to food security and affordability (UN SDG 2).
+With grocery prices rising by 8.5% annually (source: market data), many individuals are finding it increasingly difficult to stick to budgets while maintaining a nutritious diet. People often struggle to track price trends, compare costs across stores, and make informed purchasing decisions.
 
+Without reliable, user-friendly tools, many end up overspending, experiencing financial stress, or compromising on essential groceries.
+
+PriceGuard addresses this issue by providing:
+
+🔄 Real-time grocery price tracking
+
+💡 Budget-friendly product recommendations
+
+📊 Smart spending insights
+
+The app supports UN Sustainable Development Goal 12 (Responsible Consumption and Production) and contributes to UN SDG 2 (Zero Hunger) by helping users make smarter, more affordable food choices — especially in times of inflation.
 
 ## 🔗 Figma Designs
 
